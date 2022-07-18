@@ -1,6 +1,6 @@
 - Hi, I’m Sean! @seanranderson
-- I'm a graduate student at the University of Wisconsin-Madison.
-- I’m finishing my PhD in Communication Sciences and Disorders.
+- I'm a postdoctoral fellow at the University of Colorado Anschutz Medical Campus.
+- I’m received my PhD in Communication Sciences and Disorders from the University of Wisconsin-Madison.
      - and my MS in Biometry (Applied Statistics)
 - I’m interested in computational neuroscience and statistics.
 - You can reach me at sean.hearing@gmail.com.
