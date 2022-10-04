@@ -1,5 +1,5 @@
 - Hi, I’m Sean! @seanranderson
-- I'm a postdoctoral fellow at the University of Colorado Anschutz Medical Campus.
+- I'm a Senior Auditory Research Scientist at Cochlear.
 - I’m received my PhD in Communication Sciences and Disorders from the University of Wisconsin-Madison.
      - and my MS in Biometry (Applied Statistics)
 - I’m interested in improving hearing devices, auditory computational neuroscience, and statistics.
